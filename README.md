@@ -2,8 +2,8 @@
 
 ## Dashboard Preview
 
-![Airline Dashboard](dashboard.png)
-
+![Airline Dashboard](Airline%20Dashboard1.png)   
+![Airline Dashboard](Airline%20Dashboard2.png)
 ## Tools Used
 - Power BI
 - DAX
